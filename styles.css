@@ -1,0 +1,56 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    padding: 0px;
+    margin: 0;
+
+}
+div {
+    padding: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.navbar a:link, .navbar a:visited, .navbar a:active {
+    text-decoration: none;
+    color: black;
+    margin-left: 20px;
+    margin-right: 50px;
+}
+
+.navbar {
+    background-color: darkgrey;
+    margin-bottom: 50px;
+    padding: 20px;
+}
+
+img {
+    margin-left: 50px;
+}
+.Superman img, .Flash img, .Cyborg img {
+    width: 700px;
+    height: 400px;
+}
+.Batman img {
+    width: 500px;
+    height: 500px;
+}
+.Wonderwoman img {
+    width: 700px;
+    height: 500px;
+}
+
+.moreinfo a:link, .moreinfo a:visited, .moreinfo a:active {
+    padding: 5px 10px;
+    background-color: rgb(196, 196, 196);
+    border: solid 1px rgb(0, 0, 0);
+    border-radius: 5px;
+    color: black;
+    text-decoration: none;
+    margin-bottom: 100px;
+}
